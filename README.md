@@ -21,10 +21,10 @@
 - HTML, CSS, Bootstrap, Tailwind CSS, JSP, JavaScript, React.js
 
 #### 🗃️ Database:
-- MySQL, PostgreSQL, MongoDB
+- MySQL, MongoDB
 
 #### ☁️ DevOps & Tools:
-- Git & GitHub, Docker, Jenkins, AWS, CI/CD pipeline, IntelliJ, VS Code
+- Git & GitHub, Docker, AWS, CI/CD pipeline, IntelliJ, VS Code, Eclipse, Spring sts
 
 ---
 
@@ -36,11 +36,9 @@
 - **🍲 Recipe Blog Website (Spring MVC + MySQL)**  
   A full-stack recipe management app where users can create, edit, and save recipes. Built with Spring MVC, JSP, and MySQL.
 
-- **✅ To-Do List REST API (Spring Boot + JPA)**  
-  A simple RESTful API to manage tasks with CRUD operations and status filtering. Designed for backend practice and Postman testing.
+- **👤 User REST API (Spring Boot)**  
+  Backend service to manage users — create, update, delete, and retrieve user details. Built using Spring Boot, Spring Data JPA, and MySQL.
 
-- **📚 Book Store REST API (Spring Boot)**  
-  Backend service to manage a book inventory — create, update, delete, and search books. Built using Spring Boot and MySQL.
 
 ---
 
@@ -55,7 +53,6 @@
 ### 🌱 Currently Learning
 
 - Spring Security + JWT Authentication  
-- Microservices with Docker & Jenkins  
 - Cloud Deployment with AWS & Render  
 
 ---
