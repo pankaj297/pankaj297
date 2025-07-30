@@ -8,7 +8,7 @@
 🎯 Passionate backend developer eager to build scalable, real-world applications using modern tech.  
 🎓 MCA Student | BCA Graduate – KBCNMU, Jalgaon (2024)  
 🏆 Secured 2nd Rank at Software Exhibition, IT Festa
-
+🏅 Java Full Stack Developer – IT Shala Pune 
 ---
 
 ### 💼 Tech Stack
