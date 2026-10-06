@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Suklal Naik</h1>
 
-<h3 align="center">Full Stack Java Developer | Java | Spring Boot | React.js | REST APIs | MCA Graduate</h3>
+<h3 align="center">INTERN SOFTWARE ENGINEER  | Java | Spring Boot | React.js | REST APIs | MCA Graduate</h3>
 
 ---
 
