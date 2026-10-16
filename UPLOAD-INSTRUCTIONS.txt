@@ -1,0 +1,7 @@
+1. Open https://github.com/pankaj297
+2. Open the repository named exactly pankaj297 (the profile README repository).
+3. Upload README.md and the entire assets/ folder, preserving the folder structure.
+4. Commit changes to the default branch.
+5. Open https://github.com/pankaj297 and verify the images.
+6. Replace the project repository placeholders and add your exact LinkedIn URL before publishing.
+Note: The pointing-character PNG was generated with a checkerboard-style background; a best-effort background cleanup was applied. Inspect it on light and dark backgrounds before using it publicly.

@@ -1,173 +1,46 @@
-<h1 align="center">Hi 👋, I'm Pankaj Suklal Naik</h1>
+<div align="center">
 
-<h3 align="center">INTERN SOFTWARE ENGINEER  | Java | Spring Boot | React.js | REST APIs | MCA Graduate</h3>
+![Pankaj Naik — Java Developer](./assets/hero.svg?v=1)
 
----
+![About](./assets/about-life.svg?v=1)
 
-### 🧑‍💻 About Me
+![Tech Stack](./assets/stack.svg?v=1)
 
-🎯 Full Stack Java Developer with hands-on experience in building web applications using Java, Spring Boot, React.js, REST APIs, and PostgreSQL.
+![Developer ID](./assets/id-dashboard.svg?v=1)
 
-🎓 MCA Graduate | BCA Graduate – KBCNMU, Jalgaon
+![Connect](./assets/connect.svg?v=1)
 
-💼 Former Full Stack Java Developer Intern at Ashdip IT Solutions
+</div>
 
-🏆 Secured 2nd Rank in the IT-Festa Software Exhibition for the MPL Cricket Auction Dashboard.
+## 👨‍💻 About Me
 
-💡 Strong foundation in OOP, Data Structures & Algorithms, Core Java, JavaScript, SQL, databases, networking, debugging, and problem solving.
+- 🎓 MCA student, expected completion: 2026
+- 💻 Focused on Java, Spring Boot, REST APIs, and database development
+- 🧩 Interested in building maintainable backend services and full-stack applications
+- 📍 Maharashtra, India
 
----
+## 🛠️ Technologies
 
-### 💼 Tech Stack
+**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs  
+**Database:** PostgreSQL, MySQL, MongoDB  
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS  
+**Tools:** Git, GitHub, Postman, Cloudinary
 
-#### ☕ Programming
-- Java
-- Java 8+
-- C/C++
-- Core Python
-- SQL
+## 🚀 Projects
 
-#### 🔧 Backend & Frameworks
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- REST APIs
-- JDBC
-- CRUD Operations
-- Backend Business Logic
-- Spring Security
-- JWT Authentication
+> Add or verify repository URLs before publishing. These project names are based on projects discussed; edit descriptions to match the public repositories.
 
-#### 🌐 Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
+| Project | Description | Repository |
+|---|---|---|
+| Portfolio Backend API | Spring Boot REST API with PostgreSQL, DTO validation, and Cloudinary integration | [Add repository URL](https://github.com/pankaj297) |
+| MPL Cricket Auction Dashboard | React dashboard for players, teams, matches, and auction workflows | [Add repository URL](https://github.com/pankaj297) |
+| Shri Uday Garments ERP | Business workflow/dashboard project using Java, Spring Boot, PostgreSQL, and REST APIs | [Add repository URL](https://github.com/pankaj297) |
 
-#### 🗃️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Relational Database Design
-- Primary & Foreign Keys
+## 📫 Connect
 
-#### 🛠️ Tools & Development
-- Git
-- GitHub
-- Postman
-- JUnit
-- Debugging
-- API Testing
-
-#### 🌐 Networking
-- HTTP/HTTPS
-- Client-Server Concepts
-- REST Communication
-- Basic Computer Networking
+- GitHub: [@pankaj297](https://github.com/pankaj297)
+- LinkedIn: **Add your exact LinkedIn profile URL here**
 
 ---
 
-### 💼 Experience
-
-#### Full Stack Java Developer Intern — Ashdip IT Solutions
-**Dec 2025 – May 2026**
-
-- Developed full-stack web application features using Java, Spring Boot, and React.js.
-- Designed and integrated RESTful APIs for core application features.
-- Implemented CRUD workflows and backend business logic.
-- Designed and managed relational database tables using MySQL/PostgreSQL.
-- Tested and debugged REST API endpoints using Postman.
-- Used Git and GitHub for version control and collaborative development.
-
----
-
-### 📘 Projects
-
-#### 🏭 Shri Uday Garments
-**Java | Spring Boot | React.js | PostgreSQL | REST API | Spring Security | Postman**
-
-- Contributed to a full-stack garment manufacturing ERP application.
-- Developed and integrated REST APIs for cutting, finishing, employee, and production workflow modules.
-- Implemented business logic for employee and stock management workflows.
-- Worked with PostgreSQL for application data management.
-
-#### 👨‍💻 Portfolio Management System
-**Java | Spring Boot | REST API | PostgreSQL | Spring Security | JWT | Cloudinary | Postman**
-
-- Developed RESTful APIs for managing Profile, Skills, Projects, Experience, Education, Certifications, and Achievements.
-- Implemented CRUD operations and JPA entity relationships.
-- Added validation and global exception handling.
-- Implemented JWT authentication and role-based access control.
-- Integrated PostgreSQL and Cloudinary for file and image management.
-- Tested APIs using Postman.
-
-#### 🏏 Malkheda Premier League (MPL) – Cricket Auction Dashboard
-**React.js | JavaScript | REST API**
-
-- Developed a React.js-based cricket auction dashboard for managing players, teams, live auctions, and tournament information.
-- Built reusable components for Admin Live Auction, Player Table, Teams, Upcoming Matches, and Gallery.
-- Integrated REST APIs for player registration, player management, and team-related data.
-- 🏆 Secured **2nd Rank** in the IT-Festa Software Exhibition.
-
----
-
-### 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-Aug 2024 – Jun 2026
-
-**Bachelor of Computer Applications (BCA)**  
-Aug 2021 – Jun 2024
-
----
-
-### 🏅 Certifications & Achievements
-
-- 🎓 Full Stack Java Course — IT Shaala | August 2024
-- 🏆 IT-Festa — 2nd Rank in Software Exhibition | February 2025
-- 🏅 LeetCode 50-Day Badge
-- 💻 Consistent LeetCode problem solving and coding practice
-
----
-
-### 📊 Coding Practice
-
-I regularly practice programming and SQL problems on **LeetCode** to improve my problem-solving, algorithms, and database skills.
-
-🔗 [Visit my LeetCode Profile](https://leetcode.com/u/vmvxXuDcP1/)
-
----
-
-### 📫 Connect With Me
-
-- ✉️ Email: pankajnaik958@gmail.com
-- 🔗 LinkedIn: [Pankaj Naik](https://www.linkedin.com/in/pankaj-naik-788549262)
-- 💻 GitHub: [pankaj297](https://github.com/pankaj297)
-- 📱 Phone: +91 7276028036
-- 🌍 Portfolio: Coming Soon
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj297&show_icons=true&theme=github_dark" alt="Pankaj's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj297&theme=dark" alt="Pankaj's GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankaj297&theme=darkhub&column=3&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 💬 Developer Mantra
-
-> **"Code. Learn. Improve. Repeat."** 🚀
+<sub>Profile graphics are self-contained SVG files with embedded local images. No contribution counts or other unverified statistics are displayed.</sub>
